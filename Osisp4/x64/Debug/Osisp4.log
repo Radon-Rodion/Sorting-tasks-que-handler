@@ -1,0 +1,3 @@
+﻿  main.cpp
+f:\Coding\C++\OSiSP_4\Osisp4\main.cpp(78,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Osisp4.vcxproj -> F:\Coding\C++\OSiSP_4\x64\Debug\Osisp4.exe
